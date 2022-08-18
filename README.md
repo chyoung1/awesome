@@ -1,5 +1,5 @@
 ### AwesomeWM Rice
-![Screenshot](screenshot.png)                                           
+![Screenshot](example.png)                                           
 ### Requirements
 - **`Awesome`**
 - **`Nerd-Fonts-Complete`** [GIT](https://github.com/ryanoasis/nerd-fonts)
