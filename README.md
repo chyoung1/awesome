@@ -2,10 +2,9 @@
 ![Screenshot](screenshot.png)                                           
 ### Requirements
 - **`Awesome`**
-- **`Nerd-Fonts-Complete`** [AUR](https://aur.archlinux.org/packages/nerd-fonts-complete)
+- **`Nerd-Fonts-Complete`** [GIT](https://github.com/ryanoasis/nerd-fonts)
 - **`Awesome-wm-widgets`** [GIT](https://github.com/streetturtle/awesome-wm-widgets)
 - **`Dmenu`**
-- **`Flameshot`**
 - **`Rofi`**
 - **`Nitrogen`**
-- **`Picom`** [AUR](https://aur.archlinux.org/packages/picom-ibhagwan-git)
+- **`Picom`** [GIT](https://github.com/ibhagwan/picom)
